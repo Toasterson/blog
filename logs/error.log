@@ -1,0 +1,1 @@
+2017/10/15 04:23:19 [error] 25824#1: *2 open() "/var/www/www.wegmueller.it/public/favicon.ico" failed (2: No such file or directory), client: 2a02:1205:34ee:1de0:2c68:9b44:1dce:7f1a, server: www.wegmueller.it, request: "GET /favicon.ico HTTP/1.1", host: "www.wegmueller.it"

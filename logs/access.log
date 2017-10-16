@@ -1,0 +1,7 @@
+2a02:1205:34ee:1de0:2c68:9b44:1dce:7f1a - - [15/Oct/2017:04:23:18 -0700] "GET / HTTP/1.1" 200 2905 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0"
+2a02:1205:34ee:1de0:2c68:9b44:1dce:7f1a - - [15/Oct/2017:04:23:19 -0700] "GET /images/gohugo-default-sample-hero-image.jpg HTTP/1.1" 200 282988 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0"
+2a02:1205:34ee:1de0:2c68:9b44:1dce:7f1a - - [15/Oct/2017:04:23:19 -0700] "GET /favicon.ico HTTP/1.1" 404 169 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0"
+2a02:1205:34ee:1de0:2c68:9b44:1dce:7f1a - - [15/Oct/2017:04:24:40 -0700] "GET / HTTP/1.1" 200 2745 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0"
+2a02:1205:34ee:1de0:2c68:9b44:1dce:7f1a - - [15/Oct/2017:04:24:40 -0700] "GET /images/gohugo-default-sample-hero-image.jpg HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0"
+2a02:1205:34ee:1de0:2c68:9b44:1dce:7f1a - - [15/Oct/2017:04:25:40 -0700] "GET / HTTP/1.1" 200 2745 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0"
+2a02:1205:34ee:1de0:2c68:9b44:1dce:7f1a - - [15/Oct/2017:04:25:40 -0700] "GET /images/gohugo-default-sample-hero-image.jpg HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0"
