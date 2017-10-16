@@ -1,4 +1,4 @@
-baseURL = "http://www.wegmueller.it/"
+baseURL = "https://www.wegmueller.it/"
 languageCode = "en-us"
 title = "Toast's Personal Blog"
 theme = "ananke"
