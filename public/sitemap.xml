@@ -2,7 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.wegmueller.it/about/</loc>
+    <lastmod>2017-10-16T20:03:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.wegmueller.it/posts/initial/</loc>
+    <lastmod>2017-10-15T11:17:53+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.wegmueller.it/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wegmueller.it/posts/</loc>
+    <lastmod>2017-10-15T11:17:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -13,7 +29,7 @@
   
   <url>
     <loc>http://www.wegmueller.it/</loc>
-    <priority>0</priority>
+    <lastmod>2017-10-15T11:17:53+00:00</lastmod>
   </url>
   
 </urlset>
